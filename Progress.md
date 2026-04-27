@@ -6,6 +6,8 @@ Starting the AI Learning Journey: Bridging the Knowledge Gap
 ## Summary
 Launched a 100-day learning initiative focused on AI and emerging technologies. The primary motivation was to address a growing disconnect from current tech trends and regain relevance in a rapidly evolving field. Started by consuming curated educational content on AI/technology developments.
 
+[How I consistently study with a full time job (9 months in and still going strong)](https://www.youtube.com/watch?v=INymz5VwLmk)
+
 ---
 ## Raw Notes / Thoughts
 
