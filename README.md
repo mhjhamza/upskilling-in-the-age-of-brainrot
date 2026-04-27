@@ -23,7 +23,7 @@ I’ll be posting what I learn every day. You can follow along, get inspired, an
 
 # Chapter 01 | Kickoff
 
-Launched a 100-day learning initiative focused on AI and emerging technologies. The primary motivation was to address a growing disconnect from current tech trends and regain relevance in a rapidly evolving field. Started by consuming curated educational content on AI/technology developments.
+Launched a 100-day learning initiative focused on AI and emerging technologies. We wanted to address a growing disconnect from current tech trends and regain relevance in a rapidly evolving field. Started by consuming curated educational content on AI/technology developments.
 
 **Key Realizations:**
 - Felt significantly disconnected from ongoing developments in the tech world
@@ -38,9 +38,18 @@ Launched a 100-day learning initiative focused on AI and emerging technologies. 
 **Learning Resources:**
 - Watched educational video: https://www.youtube.com/watch?v=M-NTwkM3VwM
 - Watched educational video: https://www.youtube.com/watch?v=jm2jBW462bU
-- [How I consistently study with a full time job (9 months in and still going strong)](https://www.youtube.com/watch?v=INymz5VwLmk)
+- [How I consistently study with a full-time job (9 months in and still going strong)](https://www.youtube.com/watch?v=INymz5VwLmk)
 - [TinaHuang](https://www.youtube.com/@TinaHuang1)
 - [Agentic AI by Deep Learning](https://www.deeplearning.ai/courses/agentic-ai/)
+
+
+Module 1: Introduction to Agentic Workflows
+
+Keywords:
+Non-agentic Workflows (zero-shot), Agentic workflows, thinking/Research/Revise
+LLM-based app, multiple steps, 
+Complex Task, break it down for agentic workflows...
+
 
 
 Dated: 27-04-2026
