@@ -1,3 +1,6 @@
+- **Goal: Authority in AI / Thought Leadership**
+  - Start Date: 27-04-2026
+  - End Date: 05-08-2026
 
 # Welcome, fellas!
 
