@@ -11,12 +11,16 @@ Why AI? I’ve been avoiding the reality of it for a while. But recently, I watc
 I’ll be posting what I learn every day. You can follow along, get inspired, and maybe start your own journey too. And if I fall off track, feel free to hold me accountable. Today, April 27, is Day 1. This journey continues until the end of July.
 
 
+
+# Table of Contents
+
+### Chapter 01 | Kickoff
+### Chapter 02 | Kickoff
+
 -------------------------
 
 AI Influencers to follow
 - [TinaHuang](https://www.youtube.com/@TinaHuang1)
-
-
 Online Courses
 - [Agentic AI by Deep Learning](https://www.deeplearning.ai/courses/agentic-ai/)
 
@@ -28,7 +32,8 @@ Authority in AI / Thought Leadership**
 
 ------------------------- 
 
-# Day 01 | Kickoff | April 27, 2026 | Monday
+# Chapter 01 | Kickoff
+Day 01 | April 27, 2026 | Monday
 
 ## Title
 Starting the AI Learning Journey: Bridging the Knowledge Gap
