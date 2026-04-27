@@ -13,3 +13,12 @@ My focus this time is Agentic AI.
 Why AI? I’ve been avoiding the reality of it for a while. But recently, I watched clips from Microsoft Ignite out of curiosity. I even asked ChatGPT to summarize major tech events and highlight where the industry is heading. To my surprise, every single one pointed in the same direction—AI, agents, MCP. Gone are the days when companies mainly talked about new cloud services or incremental product features. Leaders like Sundar Pichai and Satya Nadella are all in on AI. If I want to stay relevant from 2026 onward, relying only on SQL, data lakes, Spark, and data modeling won’t be enough. Hence, this journey. 
 
 I’ll be posting what I learn every day. You can follow along, get inspired, and maybe start your own journey too. And if I fall off track, feel free to hold me accountable. Today, April 27, is Day 1. This journey continues until the end of July.
+
+
+
+AI Influencers to follow
+- [TinaHuang](https://www.youtube.com/@TinaHuang1)
+
+
+Online Courses
+- [Agentic AI by Deep Learning](https://www.deeplearning.ai/courses/agentic-ai/)
