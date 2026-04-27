@@ -11,39 +11,21 @@ Why AI? I’ve been avoiding the reality of it for a while. But recently, I watc
 I’ll be posting what I learn every day. You can follow along, get inspired, and maybe start your own journey too. And if I fall off track, feel free to hold me accountable. Today, April 27, is Day 1. This journey continues until the end of July.
 
 
+------------------------- 
+
 
 # Table of Contents
 
 ### Chapter 01 | Kickoff
-### Chapter 02 | Kickoff
 
--------------------------
-
-AI Influencers to follow
-- [TinaHuang](https://www.youtube.com/@TinaHuang1)
-Online Courses
-- [Agentic AI by Deep Learning](https://www.deeplearning.ai/courses/agentic-ai/)
-
-------------------------- 
-
-Authority in AI / Thought Leadership**
-  - Start Date: 27-04-2026
-  - End Date: 05-08-2026
 
 ------------------------- 
 
 # Chapter 01 | Kickoff
-Day 01 | April 27, 2026 | Monday
 
-## Title
-Starting the AI Learning Journey: Bridging the Knowledge Gap
-
-## Summary
 Launched a 100-day learning initiative focused on AI and emerging technologies. The primary motivation was to address a growing disconnect from current tech trends and regain relevance in a rapidly evolving field. Started by consuming curated educational content on AI/technology developments.
 
 [How I consistently study with a full time job (9 months in and still going strong)](https://www.youtube.com/watch?v=INymz5VwLmk)
-
-## Raw Notes / Thoughts
 
 **Key Realizations:**
 - Felt significantly disconnected from ongoing developments in the tech world
@@ -58,5 +40,13 @@ Launched a 100-day learning initiative focused on AI and emerging technologies. 
 - Starting with video content as a foundation to understand the current AI landscape
 - Setting up a sustainable learning routine for the 100-day challenge
 
+
+--
+- [TinaHuang](https://www.youtube.com/@TinaHuang1)
+- [Agentic AI by Deep Learning](https://www.deeplearning.ai/courses/agentic-ai/)
+
+
+Dated: 27-04-2026
+MHJ2026
 
 -------------------------
