@@ -1,7 +1,3 @@
-- **Goal: Authority in AI / Thought Leadership**
-  - Start Date: 27-04-2026
-  - End Date: 05-08-2026
-
 # Welcome, fellas!
 
 I’ve created this repository to track what I learn and to build confidence by having tangible proof of my progress. Initially, I considered starting a YouTube channel. However, it requires a lot of effort—script writing, recording, and editing—and I knew it wouldn’t be sustainable while juggling personal responsibilities and a full-time role. A GitHub repository feels closer to my engineering identity. It’s also public, so I thought—why not use it to document my learning, just like I’ve done in the past?
@@ -15,6 +11,7 @@ Why AI? I’ve been avoiding the reality of it for a while. But recently, I watc
 I’ll be posting what I learn every day. You can follow along, get inspired, and maybe start your own journey too. And if I fall off track, feel free to hold me accountable. Today, April 27, is Day 1. This journey continues until the end of July.
 
 
+-------------------------
 
 AI Influencers to follow
 - [TinaHuang](https://www.youtube.com/@TinaHuang1)
@@ -23,8 +20,13 @@ AI Influencers to follow
 Online Courses
 - [Agentic AI by Deep Learning](https://www.deeplearning.ai/courses/agentic-ai/)
 
+------------------------- 
 
+Authority in AI / Thought Leadership**
+  - Start Date: 27-04-2026
+  - End Date: 05-08-2026
 
+------------------------- 
 
 # Day 01 | Kickoff | April 27, 2026 | Monday
 
@@ -36,7 +38,6 @@ Launched a 100-day learning initiative focused on AI and emerging technologies. 
 
 [How I consistently study with a full time job (9 months in and still going strong)](https://www.youtube.com/watch?v=INymz5VwLmk)
 
----
 ## Raw Notes / Thoughts
 
 **Key Realizations:**
@@ -51,3 +52,6 @@ Launched a 100-day learning initiative focused on AI and emerging technologies. 
 **Reflections:**
 - Starting with video content as a foundation to understand the current AI landscape
 - Setting up a sustainable learning routine for the 100-day challenge
+
+
+-------------------------
